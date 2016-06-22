@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://sukey1992.github.io/"/>
-  <updated>2016-06-04T06:27:03.666Z</updated>
+  <updated>2016-06-22T07:00:25.229Z</updated>
   <id>http://sukey1992.github.io/</id>
   
   <author>
@@ -16,13 +16,39 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Welcome Sukey&#39;s Home !</title>
+    <title>小幸运</title>
+    <link href="http://sukey1992.github.io/2016/06/22/%E5%B0%8F%E5%B9%B8%E8%BF%90/"/>
+    <id>http://sukey1992.github.io/2016/06/22/小幸运/</id>
+    <published>2016-06-22T06:55:51.163Z</published>
+    <updated>2016-06-22T07:00:25.229Z</updated>
+    
+    <content type="html">&lt;p&gt;Welcome to DanYing’s Home ! This is my very first post. &lt;/p&gt;
+&lt;p&gt;原唱:田馥甄&lt;br&gt;填词:徐世珍，吴辉福&lt;br&gt;谱曲:JerryC&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;我听见雨滴落在青青草地
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;　　我听见远方下课钟声响起&lt;br&gt;　　可是我没有听见你的声音&lt;br&gt;　　认真 呼唤我姓名&lt;br&gt;　　爱上你的时候还不懂感情&lt;br&gt;　　离别了才觉得刻骨 铭心&lt;br&gt;　　为什么没有发现遇见了你&lt;br&gt;　　是生命最好的事情&lt;br&gt;　　也许当时忙着微笑和哭泣&lt;br&gt;　　忙着追逐天空中的流星&lt;br&gt;　　人理所当然的忘记&lt;br&gt;　　是谁风里雨里一直默默守护在原地&lt;br&gt;　　原来你是我最想留住的幸运&lt;br&gt;　　原来我们和爱情曾经靠得那么近&lt;br&gt;　　那为我对抗世界的决定&lt;br&gt;　　那陪我淋的雨&lt;br&gt;　　一幕幕都是你 一尘不染的真心&lt;br&gt;　　与你相遇 好幸运&lt;br&gt;　　可我已失去为你泪流满面的权利&lt;br&gt;　　但愿在我看不到的天际&lt;br&gt;　　你张开了双翼&lt;br&gt;　　遇见你的注定 (oh–)&lt;br&gt;　　她会有多幸运&lt;/p&gt;
+&lt;p&gt;　　青春是段跌跌撞撞的旅行&lt;br&gt;　　拥有着后知后觉的美丽&lt;br&gt;　　来不及感谢是你给我勇气&lt;br&gt;　　让我能做回我自己&lt;br&gt;　　也许当时忙着微笑和哭泣&lt;br&gt;　　忙着追逐天空中的流星&lt;br&gt;　　人理所当然的忘记&lt;br&gt;　　是谁风里雨里一直默默守护在原地&lt;br&gt;　　原来你是我最想留住的幸运&lt;br&gt;　　原来我们和爱情曾经靠得那么近&lt;br&gt;　　那为我对抗世界的决定&lt;br&gt;　　那陪我淋的雨&lt;br&gt;　　一幕幕都是你 一尘不染的真心&lt;br&gt;　　与你相遇 好幸运&lt;br&gt;　　可我已失去为你泪流满面的权利&lt;br&gt;　　但愿在我看不到的天际&lt;br&gt;　　你张开了双翼&lt;br&gt;　　遇见你的注定 (oh–)&lt;br&gt;　　她会有多幸运&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Welcome to DanYing’s Home ! This is my very first post. &lt;/p&gt;
+&lt;p&gt;原唱:田馥甄&lt;br&gt;填词:徐世珍，吴辉福&lt;br&gt;谱曲:JerryC&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;我听见雨滴落在青青草地
+&lt;/code&gt;&lt;/pre
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Welcome DanYing&#39;s Home !</title>
     <link href="http://sukey1992.github.io/2016/06/03/hello-world/"/>
     <id>http://sukey1992.github.io/2016/06/03/hello-world/</id>
     <published>2016-06-03T10:36:13.457Z</published>
-    <updated>2016-06-04T06:27:03.666Z</updated>
+    <updated>2016-06-22T06:42:09.236Z</updated>
     
-    <content type="html">&lt;p&gt;Welcome to Sukey’s Home ! This is my very first post. &lt;/p&gt;
+    <content type="html">&lt;p&gt;Welcome to DanYing’s Home ! This is my very first post. &lt;/p&gt;
 &lt;h2 id=&quot;Quick-Start&quot;&gt;&lt;a href=&quot;#Quick-Start&quot; class=&quot;headerlink&quot; title=&quot;Quick Start&quot;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;h3 id=&quot;Create-a-new-post&quot;&gt;&lt;a href=&quot;#Create-a-new-post&quot; class=&quot;headerlink&quot; title=&quot;Create a new post&quot;&gt;&lt;/a&gt;Create a new post&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo new &lt;span class=&quot;string&quot;&gt;&quot;My New Post&quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 &lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/writing.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Writing&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&quot;Run-server&quot;&gt;&lt;a href=&quot;#Run-server&quot; class=&quot;headerlink&quot; title=&quot;Run server&quot;&gt;&lt;/a&gt;Run server&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo server&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
@@ -35,8 +61,8 @@
     
     <summary type="html">
     
-      &lt;p&gt;Welcome to Sukey’s Home ! This is my very first post. &lt;/p&gt;
-&lt;h2 id=&quot;Quick-Start&quot;&gt;&lt;a href=&quot;#Quick-Start&quot; class=&quot;headerlink&quot; title=&quot;Quick St
+      &lt;p&gt;Welcome to DanYing’s Home ! This is my very first post. &lt;/p&gt;
+&lt;h2 id=&quot;Quick-Start&quot;&gt;&lt;a href=&quot;#Quick-Start&quot; class=&quot;headerlink&quot; title=&quot;Quick 
     
     </summary>
     
